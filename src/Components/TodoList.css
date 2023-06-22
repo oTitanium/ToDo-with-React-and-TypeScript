@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: "Arial", sans-serif;
+  }
+  
+  .todo-list {
+    text-align: center;
+    margin-top: auto;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    max-width: 400px;
+  }
+  
+  .todo-list .list-group-item {
+    font-weight: bold;
+  }
