@@ -8,7 +8,7 @@ items.
 - React
 - TypeScript
 - Vite
-- 
+  
 **Installing**
 - Install Node.js and npm before running the code.
   
