@@ -1,27 +1,27 @@
 # ToDo-with-React-and-TypeScript
 
-Description
+**Description**
 This is a To-Do web app for tracking and displaying a list of to-do
 items.
 
 
-Installing
+**Installing**
 - Install Node.js and npm before running the code.
   
 
-Executing program
+**Executing program**
 
-cd {filename}
-npm install
-npm run dev
+- cd {filename}
+- npm install
+- npm run dev
 
 
 
-Help
+**Help**
 Any advise for common problems or issues.
 
 
-Authors
+**Authors**
 Dervis Yasin Yalcin
 
 
