@@ -21,10 +21,6 @@ items.
 
 
 
-**Help**
-Any advise for common problems or issues.
-
-
 **Authors**
 Dervis Yasin Yalcin
 
